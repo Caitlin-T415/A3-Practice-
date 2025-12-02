@@ -3,6 +3,6 @@ import dataProvider from '/workspaces/A3-Practice-/a3-practice/src/dataProvider.
 
 export const App=() => (
   <Admin dataProvider={dataProvider}>
-
+    <Resource name= ""/>
   </Admin>
 )
