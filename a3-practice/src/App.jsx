@@ -1,4 +1,4 @@
-import { Admin } from 'react-admin'
+import React from 'react'
 import dataProvider from '/workspaces/A3-Practice-/a3-practice/src/dataProvider.jsx'
 
 export const App=() => (
